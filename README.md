@@ -1,8 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="khairiazrul" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/khairiazrul?trk=profile-badge">Khairi Azrul Mohammd Asree</a></div>
-              
+    
 - 👋 Hi, I’m @azrulasree
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning machine learning
