@@ -1,8 +1,8 @@
     
 - 👋 Hi, I’m @azrulasree
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on face recognition using opencv
+- 👀 I’m interested in Cloud Computing and AI
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m doing IoT project that include Lorawan, MQTT, TTN and cloud.
 - 📫 How to reach me: can email me at azrulasree@gmail.com
 
 <!---
