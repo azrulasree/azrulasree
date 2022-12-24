@@ -1,8 +1,9 @@
     
 - 👋 Hi, I’m @azrulasree
-- 👀 I’m interested in Cloud Computing and AI
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m doing IoT project that include Lorawan, MQTT, TTN and cloud.
+- 💞️ My strong forte in Networking.
+- 👀 I’m interested in Cloud Computing
+- Envisioned to become a Network Cloud Architect.
+
 - 📫 How to reach me: can email me at azrulasree@gmail.com
 
 <!---
