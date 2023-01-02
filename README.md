@@ -1,7 +1,7 @@
     
 - 👋 Hi, I’m @azrulasree
 - 💞️ My strong forte in Networking.
-- 👀 I’m interested in Cloud Computing
+- 👀 I’m interested in Azure and AWS
 - Envisioned to become a Network Cloud Architect.
 
 - 📫 How to reach me: can email me at azrulasree@gmail.com
