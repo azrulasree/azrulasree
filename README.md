@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @azrulasree
 - 💞️ My strong forte in Networking.
 - 👀 I’m trying my best to put all my notes in here.
-- Envisioned to become a Network Cloud Architect.
+- Envisioned to become a Solution Architect(network,server,security,cloud).
 
 - 📫 How to reach me: can email me at azrulasree@gmail.com
 
