@@ -8,7 +8,6 @@
   <a href="mailto:azrulasree@gmail.com">
     <img src="https://img.shields.io/badge/Email-azrulasree@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Singapore-Employment_Pass-red?style=flat" />
 </p>
 
 ---
